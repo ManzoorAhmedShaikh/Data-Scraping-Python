@@ -5,6 +5,7 @@ Here you will find several Web Crawler for different websites that may extract u
 ## Libraries Used:
 1) BeautifulSoup (For Data Extraction)
 2) Gspread       (For Data Dumping to Google sheets) 
+3) Selenium      (For Automation needed website)
 
 ## Useful Wrappers
 1) Gspread_Formatting_Wrapper
